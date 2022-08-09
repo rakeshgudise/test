@@ -1,2 +1,2 @@
 # test
-test repo will make me knowledgeble on Github
+test repo will make me knowledgeble on GitHub
